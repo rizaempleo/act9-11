@@ -1,0 +1,26 @@
+body {
+  background-color: blue;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+};
+    
+style.formStyle {
+  display: flex;
+  flex-direction: column;
+};
+    
+style.inputStyle {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+};
+    
+style.buttonStyle {
+  padding: 10px;
+  color: white;
+  background-color: blue;
+};
+    
